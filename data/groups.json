@@ -1,17 +1,17 @@
 [
   {
-    "id": "neurotech-brain-computer-interface-hub-discord-20260915-1",
-    "title": "Devcord Web Developers",
-    "platform": "Discord",
-    "category": "Web Development",
-    "memberCount": "48,000+ members",
-    "description": "Friendly web development and programming community covering modern web stacks, design, and career growth.",
-    "joinUrl": "https://discord.gg/devcord",
+    "id": "neurotech-brain-computer-interface-hub-reddit-20260915-1",
+    "title": "r/neurotech BCI Innovations Hub",
+    "platform": "Reddit",
+    "category": "Neurotechnology",
+    "memberCount": "42,000+ members",
+    "description": "Community focused on brain-computer interfaces, non-invasive EEG hardware, neural signal processing, and neuroprosthetics research.",
+    "joinUrl": "https://www.reddit.com/r/neurotech/",
     "tags": [
-      "webdev",
-      "discord",
-      "fullstack",
-      "design"
+      "neurotech",
+      "bci",
+      "eeg",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
